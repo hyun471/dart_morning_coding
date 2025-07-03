@@ -29,7 +29,6 @@ void bubbleSort(List<int> arr) {
   }
 }
 
-
   //버블정렬
   // [7, 9, 2, 3, 1]
   // 첫번째 라운드
